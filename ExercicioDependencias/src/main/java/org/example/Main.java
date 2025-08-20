@@ -16,7 +16,7 @@ public class Main {
             Statement statement = connection.createStatement();
 
             // Fazer um select das 5 primeiras linhas do dataset
-            String query = "SELECT * FROM germancredit LIMIT 3";
+            String query = "SELECT * FROM germancredit LIMIT 4";
             ResultSet resultSet = statement.executeQuery(query);
 
             // Pegar informações do dataset

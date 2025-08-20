@@ -35,3 +35,9 @@ mvn package
 5. Executar
 
 No IntelliJ, acesse o arquivo da classe `Main.java` pelo caminho `src\main\java\org\example\Main.java` e clique no botão `Run`.
+
+
+# Colaboradores
+[Virgínia Letícia](https://github.com/VLAfonso)
+
+[Lanna C. e S.](https://github.com/LannaCeS)
