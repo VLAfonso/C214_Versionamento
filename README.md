@@ -4,3 +4,7 @@ O objetivo é a capacitação no gerenciamento de repositórios, versionamento d
 
 # Descrição
 O projeto apresenta as informações presentes nas 5 primeiras linhas do conjunto de dados South German Credit, obtido do [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/dataset/573/south+german+credit+update).
+
+# Colaboradores
+[Virgínia Letícia](https://github.com/VLAfonso)
+[Lanna C. e S.](https://github.com/LannaCeS)
