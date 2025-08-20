@@ -2,10 +2,10 @@
 Repositório destinado à atividade de versionamento da disciplina C214 - Engenharia de Software.
 O objetivo é a capacitação no gerenciamento de repositórios, versionamento de código e resolução de conflitos.
 
-# Descrição
+# :pencil: Descrição
 O projeto apresenta as informações presentes nas 5 primeiras linhas do conjunto de dados South German Credit, obtido do [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/dataset/573/south+german+credit+update).
 
-# Configuração e Execução
+# :gear: Configuração e Execução
 1. Clonar o repositório
 ```bash
 git clone https://github.com/VLAfonso/C214_Versionamento.git
@@ -37,7 +37,7 @@ mvn package
 No IntelliJ, acesse o arquivo da classe `Main.java` pelo caminho `src\main\java\org\example\Main.java` e clique no botão `Run`.
 
 
-# Colaboradores
+# :busts_in_silhouette: Colaboradores
 [Virgínia Letícia](https://github.com/VLAfonso)
 
 [Lanna C. e S.](https://github.com/LannaCeS)
